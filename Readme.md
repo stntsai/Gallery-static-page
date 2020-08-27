@@ -1,6 +1,7 @@
-Project Name:
 
-	Gallery
+# Gallery stsatic page
+
+Access: [Gallery static page](https://raw.githack.com/stntsai/Pattern-static-page/master/index.html)
 
 Built with: 
 	

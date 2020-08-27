@@ -1,7 +1,7 @@
 
 # Gallery stsatic page
 
-Access: [Gallery static page](https://raw.githack.com/stntsai/Pattern-static-page/master/index.html)
+Access: [Gallery static page](https://raw.githack.com/stntsai/Gallery-static-page/master/gallery.html)
 
 Built with: 
 	
